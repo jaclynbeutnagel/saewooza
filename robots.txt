@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahxoniew.fixingcivilization.org/sitemap.xml
